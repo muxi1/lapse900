@@ -1,8 +1,8 @@
-# PSFree version 1.5.0
+# PSFree Version 1.5.0
 
-Lapse Kex ported to 9.00 - WIP
+Lapse Kex portiert auf 9.00 - WIP
 
-Very fast and reliable but can KP :P
+Sehr schnell und zuverlässig, kann aber KP
 
 
 Credits:
@@ -10,21 +10,21 @@ Credits:
 - SiSTR0 https://github.com/SiSTR0
 - CTN https://github.com/ctn123
 - Al-Azif https://github.com/al-azif
-- abc for PSFree webkit exploit & Lapse kernel Exploit
+- abc für PSFree Webkit Exploit & Lapse Kernel Exploit
 
-PSFree is a collection of exploits for the PS4 console. The main focus of the 
-repo is for the PS4 but we try to make things portable to PS5.
+PSFree ist eine Sammlung von Exploits für die PS4-Konsole. Der Hauptfokus des 
+Repo ist für die PS4, aber wir versuchen, die Dinge auf die PS5 zu übertragen.
 
 * Exploits
   * PSFree: src/psfree.mjs
-  * Lapse (kernel): src/scripts/lapse.mjs
+  * Lapse (Kernel): src/scripts/lapse.mjs
 
 
-# COPYRIGHT AND AUTHORS:
-AGPL-3.0-or-later (see src/COPYING). This repo belongs to the group
-`anonymous`. We refer to anonymous contributors as "anonymous" as well.
+# COPYRIGHT UND AUTOREN:
+AGPL-3.0-oder-später (siehe src/COPYING). Dieses Repo gehört zur Gruppe
+`anonymous`. Wir bezeichnen anonyme Mitwirkende auch als "anonymous".
 
 # CREDITS:
-* anonymous for PS4 firmware kernel dumps
-* Check the appropriate files for any **extra** contributors. Unless otherwise
-  stated, everything here can also be credited to us.
+* anonymous für PS4-Firmware-Kernel-Dumps
+* Überprüfen Sie die entsprechenden Dateien auf **extra** Mitwirkende. Wenn nicht anders
+ angegeben, kann alles hier auch uns zugeschrieben werden.
